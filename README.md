@@ -72,6 +72,4 @@ Sources: book1.pdf, book3.pdf
 - Implement **multi-character roleplay**.
 - Improve response coherence using **fine-tuned language models**.
 
-## License
-This project is **MIT Licensed**. Feel free to contribute!
 
